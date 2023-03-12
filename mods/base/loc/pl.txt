@@ -1,0 +1,100 @@
+{
+	"blt_options_menu_blt_mods" : "Modyfikacje BLT",
+	"blt_options_menu_blt_mods_desc" : "Aktualizowanie i zarzadzanie twoimi zainstalowanymi modami BLT",
+	"blt_options_menu_lua_mod_options" : "Opcje modyfikacji",
+	"blt_options_menu_lua_mod_options_desc" : "Konfiguracja i Dostosowywanie twoich zainstalowanych modyfikacji BLT",
+	"blt_options_menu_keybinds" : "Klawisze modyfikacji",
+	"blt_options_menu_keybinds_desc" : "Ustaw swoje klawisze dla twoich zainstalowanych modyfikacji BLT",
+
+	"blt_libraries" : "$count Biblioteki",
+	"blt_mod_icons" : "Ikony modyfikacji",
+
+	"blt_mod_outdated" : "Ten mod jest przeznaczony dla starszej wersji BLT i nie jest juz obs�ugiwany; programista musi zaktualizowac ten mod do najnowszej wersji BLT. Dostrzegniesz bledy i awarie, pozostawiajac ten mod zainstalowany.",
+	"blt_mod_missing_dependencies" : "Ten mod wymaga innych modyfikacji do dzialania, ktore nie sa zainstalowane, wiec zostal wylaczony.",
+	"blt_mod_missing_dependency" : "    Brakuje: $dependency",
+	"blt_mod_missing_dependency_download" : "    Brakuje: $dependency, dodanej do Menedzera Pobierania",
+	"blt_mod_dependency_disabled" : "Ten mod wymaga innych modyfikacji, ktore nie sa wlaczone, wiec zostal wylaczony.",
+	"blt_mod_disabled_dependency" : "    Zablokowano: $dependency",
+
+	"blt_mod_info_author" : "Autor",
+	"blt_mod_info_contact" : "Kontakt",
+
+	"blt_mod_state_enabled" : "Odblokowano",
+	"blt_mod_state_enabled_desc" : "Ten mod jest wczytywany po uruchomieniu gry.",
+	"blt_mod_state_disabled" : "Zablokowano",
+	"blt_mod_state_disabled_desc" : "Ten mod nie bedzie wczytywany po uruchomieniu gry.",
+	"blt_mod_state_forced_disabled" : "Zablokowano",
+	"blt_mod_state_forced_disabled_desc" : "Ten mod jest przestarzaly i nie moze zostac wczytany po uruchomieniu gry.",
+
+	"blt_mod_state_enabled_on_restart" : "Odblokowany po restarcie",
+	"blt_mod_state_enabled_on_restart_desc" : "Ten mod zostanie zaladowany przy nastepnym uruchomieniu gry.",
+	"blt_mod_state_disabled_on_restart" : "Zablokowany po restarcie",
+	"blt_mod_state_disabled_on_restart_desc" : "Ten mod nie zostanie zaladowany przy nastepnym uruchomieniu gry.",
+
+	"blt_mod_safemode_enabled" : "Tryb Bezpieczny:\nOdblokowany",
+	"blt_mod_safemode_enabled_help" : "Zablokuj ten mod po wiekszych aktualizacjach gry, aby zapobiec awariom.",
+	"blt_mod_safemode_disabled" : "Tryb Bezpieczny:\nZablokowany",
+	"blt_mod_safemode_disabled_help" : "Ten mod nie zostanie automatycznie zablokowany po wiekszych aktualizacjach gry.",
+
+	"blt_mod_updates_enabled" : "Automatyczne Aktualizacje:\nOdblokowane",
+	"blt_mod_updates_enabled_help" : "Automatycznie sprawdzaj serwer PaydayMods w poszukiwaniu nowszej wersji tej modyfikacji.",
+	"blt_mod_updates_disabled" : "Automatyczne Aktualizacje:\nZablokowane",
+	"blt_mod_updates_disabled_help" : "Ten mod nie zostanie sprawdzony na serwerze PaydayMods w poszukiwaniu nowszej wersji.",
+
+	"blt_mod_check_for_updates" : "Sprawdz Aktualizacje",
+	"blt_mod_check_for_updates_desc" : "Sprawdz Aktualizacje z serwerem PaydayMods.",
+
+	"blt_mod_toggle_dev" : "Przelacz informacje programisty",
+	"blt_mod_toggle_dev_desc" : "Pokaz/ukryj informacje programisty dla tej modyfikacji.",
+
+	"blt_update_mod_title" : "$name Aktualizacje",
+	"blt_update_mod_up_to_date" : "$name jest juz w nowszej wersji.",
+	"blt_update_mod_error" : "Nie mozna sprawdzic, czy mod jest juz aktualny.\n$reason",
+	"blt_update_mod_available" : "Aktualizacja do $name jest dostepna! zostala dodana do menedzera pobierania!",
+	"blt_update_mod_goto_manager" : "Idz do menedzera pobierania",
+
+	"blt_update_dll_title" : "Krytyczna Aktualizacja",
+	"blt_update_dll_text" : "Aktualizacja jest dostepna dla biblioteki BLT DLL, musisz ja zaktualizowac, pobierajac ja i instalujac ponownie ze strony internetowej.\n\nProsze natychmiast zaktualizowac, poniewaz jest to aktualizacja krytyczna, ktora moze naprawic awarie gry.",
+	"blt_update_dll_goto_website" : "Idz do pobieralni PaydayMods",
+	"blt_update_later" : "Zaktualizuj pozniej",
+
+	"blt_download_manager" : "Menedzer Pobierania",
+	"blt_download_manager_help" : "Zaktualizuj twoje mody BLT.\nZawsze aktualizuj twoje mody BLT.",
+	"blt_download_ready" : "Gotowy do pobrania",
+	"blt_download_waiting" : "Oczekiwanie...",
+	"blt_download_downloading" : "Pobieranie... $bytes;b/$total_bytes;b",
+	"blt_download_saving" : "Zapisywanie na dysk...",
+	"blt_download_extracting" : "Wypakowywanie...",
+	"blt_download_verifying" : "Weryfikowanie...",
+	"blt_download_failed" : "Nie udalo sie! Sprobowac jeszcze raz?",
+	"blt_download_done" : "Zrobione!",
+	"blt_download_dependency" : "$dependency, wymagane przez $mod",
+	"blt_download_all" : "Zaktualizuj Wszystko",
+
+	"blt_checking_updates" : "Sprawdz Aktualizacje",
+	"blt_checking_updates_help" : "Sprawdzanie na serwerze PaydayMods aktualizacji modyfikacji, prosze czekac...",
+	"blt_checking_updates_required" : "Wymagana jest aktualizacja",
+	"blt_checking_updates_required_help" : "Aktualizacje sa dostepne dla twoich modyfikacji, odwiedz menedzera pobierania, aby je zaktualizowac!",
+	"blt_view_patch_notes" : "Wyswietl notatke poprawek",
+	"blt_checking_updates_none_required" : "Aktualne",
+	"blt_checking_updates_none_required_help" : "Zadna z twoich modyfikacji nie wymaga aktualizacji!",
+
+	"blt_language_select" : "Jezyk",
+	"blt_language_select_desc" : "Wybierz jezyk, w ktorym ma byc wyswietlany BLT",
+	"blt_language_en" : "English",
+	"blt_language_es" : "Spanish",
+	"blt_language_sv" : "Swedish",
+	"blt_language_cht" : "Chinese (Traditional)",
+	"blt_language_de" : "German",
+	"blt_language_fr" : "French",
+	"blt_language_ru" : "Russian",
+	"blt_language_tr" : "Turkish",
+	"blt_language_id" : "Indonesian",
+	"blt_language_it" : "Italian",
+	"blt_language_zh-cn" : "Chinese",
+
+	"blt_no_image" : "Bez obrazka",
+	"blt_no_name" : "Bez nazwy",
+	"blt_no_desc" : "Bez opisu"
+
+}
