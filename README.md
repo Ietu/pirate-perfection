@@ -1,7 +1,7 @@
 # pirate-perfection
-Files of the old Pirate Perfection trainer for PAYDAY 2, fixed to work in 2023.
+Files of the old Pirate Perfection trainer for PAYDAY 2, fixed the crashing to work in 2023.
 
-This one is the "Patron" edition with the most features.
+This one is the "Patron" edition with the most features. This menu is operate using the function keys, F1
 
 Download and use the newest [SuperBLT](https://superblt.znix.xyz/), add the `WSOCK32.dll` into your PAYDAY 2 directory and place all of the files from this repository in the `mods` folder under the `mods` folder in your PAYDAY 2 installation as shown below
 
