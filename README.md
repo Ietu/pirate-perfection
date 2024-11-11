@@ -1,5 +1,5 @@
 # pirate-perfection
-The old Pirate Perfection trainer for PAYDAY 2, fixed the crashing to make it work with the latest update. 03/2023
+The old Pirate Perfection trainer for PAYDAY 2, fixed the crashing to make it work with the latest update. Still working with the latest update 11/2024.
 
 Patron edition. This menu is operate using the function keys, F1 -> keybinds to see all keybinds.
 
