@@ -1,7 +1,7 @@
 # pirate-perfection
 The old Pirate Perfection trainer for PAYDAY 2, fixed the crashing to make it work with the latest update. Still working with the latest update 01/2025.
 
-Patron edition. This menu is operate using the function keys, F1 -> keybinds to see all keybinds.
+Patron edition. This menu is operated using the function keys, F1 -> keybinds to see all keybinds.
 
 Download and use the newest [SuperBLT](https://superblt.znix.xyz/), add `WSOCK32.dll` into your PAYDAY 2 directory and place all of the files from this repository in the `mods` folder under the `mods` folder in your PAYDAY 2 installation as shown below
 
